@@ -61,4 +61,4 @@ httpd.serve_forever()
 ![image](https://user-images.githubusercontent.com/119560345/215002913-945b7ce1-ab0a-4fd6-a392-b2741e2c78e3.png)
 
 ## RESULT:
-The program is executed succesfully
+The program is executed succesfully.
